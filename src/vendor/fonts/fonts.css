@@ -1,0 +1,20 @@
+@font-face {
+  src: url('./Proto Grotesk-Light-Web.woff2') format('woff2'),
+       url('./Proto Grotesk-Light-Web.woff') format('woff');
+  font-family: 'Proto Grotesk Light Web';
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('./PT-Root-UI_Regular.woff2') format('woff2'),
+       url('./PT-Root-UI_Regular.woff') format('woff');
+  font-family: 'PT Root UI';
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('./Inter-Black.woff2') format('woff2'),
+       url('./Inter-Black.woff') format('woff');
+  font-family: 'Inter';
+  font-weight: 900;
+}
